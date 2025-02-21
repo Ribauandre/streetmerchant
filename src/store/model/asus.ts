@@ -179,6 +179,18 @@ export const Asus: Store = {
       series: '5090',
       url: 'https://shop.asus.com/us/90yv0lw0-m0aa00-rog-astral-rtx5090-o32g-gaming.html',
     },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '5070ti',
+      url: 'https://shop.asus.com/us/90yv0md0-m0aa00-asus-tuf-gaming-geforce-rtxtm-5070-ti-16gb-gddr7-oc-edition.html',
+    },
+    {
+      brand: 'asus',
+      model: 'prime',
+      series: '5070ti',
+      url: 'https://shop.asus.com/us/90yv0mf0-m0aa00-asus-prime-geforce-rtxtm-5070-ti-16gb-gddr7-oc-edition.html',
+    },
   ],
   name: 'asus',
   country: 'US',

@@ -2137,6 +2137,87 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/p/N82E16814126776',
       itemNumber: '14-126-776',
     },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932769',
+      model: 'eagle',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932769',
+      itemNumber: 'N82E16814932769',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932767',
+      model: 'aero oc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932767',
+      itemNumber: 'N82E16814932767',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932768',
+      model: 'gaming',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932768',
+      itemNumber: 'N82E16814932768',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126754',
+      model: 'tuf',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814126754',
+      itemNumber: 'N82E16814126754',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137924',
+      model: 'gaming',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137924',
+      itemNumber: 'N82E16814137924',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137925',
+      model: 'inspire 3x oc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137925',
+      itemNumber: 'N82E16814137925',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932766',
+      model: 'aorus',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932766',
+      itemNumber: 'N82E16814932766',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126756',
+      model: 'prime',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814126756',
+      itemNumber: 'N82E16814126756',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137933',
+      model: 'ventus 3x',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137933',
+      itemNumber: 'N82E16814137933',
+    },
   ],
   name: 'newegg',
   country: 'US',

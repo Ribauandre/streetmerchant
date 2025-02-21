@@ -1131,6 +1131,22 @@ export const Amazon: Store = {
       series: '5090',
       url: 'https://www.amazon.com/dp/B0DS2Z8854',
     },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0DS6V7L5M&Quantity.1=1',
+      model: 'prime',
+      series: '5070ti',
+      url: 'https://www.amazon.com/dp/B0DS6V7L5M',
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0DXL7GSYC&Quantity.1=1',
+      model: 'triple fan oc',
+      series: '5070ti',
+      url: 'https://www.amazon.com/dp/B0DXL7GSYC',
+    },
   ],
   name: 'amazon',
   country: 'US',
