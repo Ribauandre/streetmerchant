@@ -2218,6 +2218,114 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/p/N82E16814137933',
       itemNumber: 'N82E16814137933',
     },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500599',
+      model: 'amp extreme airo',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814500599',
+      itemNumber: 'N82E16814500599',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500601',
+      model: 'solid',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814500601',
+      itemNumber: 'N82E16814500601',
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814133901',
+      model: 'epic x',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814133901',
+      itemNumber: 'N82E16814133901',
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814133900',
+      model: 'epic x',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814133900',
+      itemNumber: 'N82E16814133900',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137949',
+      model: 'ventus 3x oc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137949',
+      itemNumber: 'N82E16814137949',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137935',
+      model: 'shadow 3x oc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137935',
+      itemNumber: 'N82E16814137935',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500600',
+      model: 'solid',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814500600',
+      itemNumber: 'N82E16814500600',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137947',
+      model: 'shadow 3x oc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137947',
+      itemNumber: 'N82E16814137947',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137922',
+      model: 'vanguard soc',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814137922',
+      itemNumber: 'N82E16814137922',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932771',
+      model: 'windforce',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932771',
+      itemNumber: 'N82E16814932771',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126757',
+      model: 'prime',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814126757',
+      itemNumber: 'N82E16814126757',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932770',
+      model: 'eagle',
+      series: '5070ti',
+      url: 'https://www.newegg.com/p/N82E16814932770',
+      itemNumber: 'N82E16814932770',
+    },
   ],
   name: 'newegg',
   country: 'US',
